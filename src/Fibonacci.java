@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Fibonacci {
-    public static void main(String[] args) {
+    public static void main(Scanner args) {
         Scanner scanner = new Scanner(System.in);
 
         // Solicita o número de termos da série de Fibonacci
@@ -24,7 +24,7 @@ public class Fibonacci {
         }
         System.out.println("\nSoma dos primeiros " + n + " números da sequência de Fibonacci: " + soma);
 
-        scanner.close();
+
 
 
     }

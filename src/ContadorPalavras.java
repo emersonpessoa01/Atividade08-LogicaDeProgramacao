@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ContadorPalavras {
-    public static void main(String[] args) {
+    public static void main(Scanner args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite uma frase: ");
@@ -10,6 +10,6 @@ public class ContadorPalavras {
         String[] palavras = frase.trim().split("\\s+");
 
         System.out.println("Número de palavras: " + palavras.length);
-        scanner.close();
+
     }
 }

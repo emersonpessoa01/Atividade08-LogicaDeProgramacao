@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Palindromo {
-    public static void main(String[] args) {
+    public static void main (Scanner args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite uma palavra: ");
@@ -15,6 +15,6 @@ public class Palindromo {
             System.out.println("Não é um palíndromo.");
         }
 
-        scanner.close();
+
     }
 }

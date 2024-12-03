@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Anagrama {
-    public static void main(String[] args) {
+    public static void main(Scanner args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite a primeira palavra: ");

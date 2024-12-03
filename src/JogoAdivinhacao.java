@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class JogoAdivinhacao {
-    public static void main(String[] args) {
+    public static void main(Scanner args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
@@ -23,6 +23,6 @@ public class JogoAdivinhacao {
             }
         }
 
-        scanner.close();
+
     }
 }
