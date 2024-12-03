@@ -20,7 +20,7 @@ public class Anagrama {
         // Ordena as letras da segunda palavra
         Arrays.sort(array2);
 
-        // Compara as duas arrays
+        // Compara os dois arrays
         if (Arrays.equals(array1, array2)) {
             System.out.println("As palavras são anagramas.");
         } else {
