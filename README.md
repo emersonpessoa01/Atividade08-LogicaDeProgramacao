@@ -1,11 +1,22 @@
 # Atividade 8 - Lista de Exercícios - Praticando Lógica de Programação em Java
 
+
+
 Bem-vindo(a) à **Atividade 8 - Lista de Exercícios**! Esta atividade foi desenvolvida para reforçar sua lógica de programação utilizando a linguagem **Java**. A prática é essencial para aprimorar suas habilidades e preparar você para desafios mais complexos.
 
 ## 📋 Enunciado
 
 Os exercícios a seguir foram criados pela **Codifica Edu** e têm como objetivo exercitar conceitos fundamentais de programação. Leia atentamente cada descrição e implemente o programa correspondente.
 
+---
+
+<!-- Possui um Main que roda todos os exercicios -->
+## Main
+**Descrição**
+- Este é o arquivo principal que executa todos os exercícios.
+
+<!-- Crie uma seção imagem -->
+![Main](/image/main-project.png)
 ---
 
 ### 1. Calculadora Simples
